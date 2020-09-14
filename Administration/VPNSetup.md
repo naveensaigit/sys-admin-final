@@ -41,9 +41,9 @@ While Streisand allows a variety of ways to use the VPN, I chose to use the "SSH
 
 11. Now, the VPN should be active! You can check your IP on [whatismyipaddress](https://www.whatismyipaddress.com). It should show the following - 
 
-        ISP:	Digital Ocean
-        City:	North Bergen
-        Region:	New Jersey
+        ISP:      Digital Ocean
+        City:	   North Bergen
+        Region:   New Jersey
         Country:	United States
 
 12. To turn off the VPN, close the terminal and disable the proxy.

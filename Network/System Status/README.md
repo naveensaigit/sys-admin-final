@@ -14,6 +14,6 @@
 1. Make the script executable by running `chmod +x <path_to_script>/check_status.sh`.
 2. Add a cronjob to execute the script everyday at 00:01 Hrs  
     ```
-    cronjob -e
-    1 0 * * * /bin/bash/ <path_to_script>/check_status.sh
+    1 0 * * * /usr/bin/sh/ <path_to_script>/check_status.sh
     ```
+Note: Cron must be installed on the system
